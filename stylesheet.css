@@ -1,7 +1,20 @@
-body,
 body {
     background-color: beige;
   }
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    font-size: xx-large;
+    color: teal;
+}
+
+.div3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    font-size: x-large;
+    color: rgb(94, 45, 81);
+}
 
 table,
 td {
@@ -30,3 +43,7 @@ label, input {
 label {
     padding-right: 10px;
 }
+
+.div2 {
+    padding: auto;
+  }
