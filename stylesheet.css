@@ -44,6 +44,8 @@ label {
     padding-right: 10px;
 }
 
-.div2 {
+.box-1 {
+    border: salmon 3px;
     padding: auto;
+
   }
